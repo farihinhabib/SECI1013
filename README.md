@@ -1,5 +1,6 @@
 # SECI1013
 Discrete Structure 24/25
+
 This course introduces students to the principles and applications of discrete structure in the field
 of computer science. The topics that are covered in this course are set theory, proof techniques,
 relations, functions, recurrence relations, counting methods, graph theory, trees and finite
